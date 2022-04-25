@@ -38,3 +38,5 @@ for ($i = 0; $i < strlen($password); $i++) {
     $specialChar= true;
     
 }
+
+//test githubcommit
